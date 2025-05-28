@@ -2,6 +2,11 @@
 		"title": "Syntax, semantics, and lexicon",
 		"authors": [{"name": "Łukasz Jędrzejowski"},{"name":" Uwe Junghanns "},{"name":" Kerstin Schwabe "},{"name":" Carla Umbach"}],
 	"license": "CC-BY-4.0",
-	"publishedAt": "2024-05-31T13:14:26.000Z"}
+	"publishedAt": "2024-05-31T13:14:26.000Z"},
+	{"versiontype": "first_edition",
+		"title": "Syntax, semantics, and lexicon",
+		"authors": [{"name": "Łukasz Jędrzejowski"},{"name":" Uwe Junghanns "},{"name":" Kerstin Schwabe "},{"name":" Carla Umbach"}],
+	"license": "CC-BY-4.0",
+	"publishedAt": "2025-25-31T13:14:26.000Z"}
 	]
 }
