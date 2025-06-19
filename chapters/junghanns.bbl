@@ -1,0 +1,621 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Bierwisch1982}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ba980b6b27a3899d5c38b4a3227b6f3a}{%
+           family={Bierwisch},
+           familyi={B\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{fullhash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{bibnamehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{authorbibnamehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{authornamehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{authorfullhash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistische Berichte}
+      \field{title}{Formal and lexical semantics}
+      \field{volume}{80}
+      \field{year}{1982}
+      \field{pages}{3\bibrangedash 17}
+      \range{pages}{15}
+    \endentry
+    \entry{Bierwisch1986}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=ba980b6b27a3899d5c38b4a3227b6f3a}{%
+           family={Bierwisch},
+           familyi={B\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \strng{namehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{fullhash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{bibnamehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{authorbibnamehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{authornamehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{authorfullhash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Seminarmaterialien}
+      \field{title}{Konzeptuelle {S}truktur und {S}emantische {F}orm}
+      \field{year}{1986}
+    \endentry
+    \entry{Bierwisch1988}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=ba980b6b27a3899d5c38b4a3227b6f3a}{%
+           family={Bierwisch},
+           familyi={B\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=ba980b6b27a3899d5c38b4a3227b6f3a}{%
+           family={Bierwisch},
+           familyi={B\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+        {{hash=86f2ad4f84355835a6e31b857e1cd28a}{%
+           family={Motsch},
+           familyi={M\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=742e5fad62e7e3253696a18b4494abb3}{%
+           family={Zimmermann},
+           familyi={Z\bibinitperiod},
+           given={Ilse},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Akademie-Verlag}%
+      }
+      \strng{namehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{fullhash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{bibnamehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{authorbibnamehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{authornamehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{authorfullhash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{editorbibnamehash}{fb766314b12e6011dacdf0b83a8fae6b}
+      \strng{editornamehash}{b56dbb8e3bd3b5f499b8e42252be5ff9}
+      \strng{editorfullhash}{fb766314b12e6011dacdf0b83a8fae6b}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Syntax, {Semantik} und {Lexikon}}
+      \field{series}{Studia grammatica 29}
+      \field{title}{On the grammar of local prepositions}
+      \field{year}{1988}
+      \field{pages}{1\bibrangedash 65}
+      \range{pages}{65}
+    \endentry
+    \entry{Bierwisch1990}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ba980b6b27a3899d5c38b4a3227b6f3a}{%
+           family={Bierwisch},
+           familyi={B\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{fullhash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{bibnamehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{authorbibnamehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{authornamehash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \strng{authorfullhash}{ba980b6b27a3899d5c38b4a3227b6f3a}
+      \field{extraname}{4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Linguistica Hungarica}
+      \field{number}{1/2}
+      \field{title}{Event nominalizations: {Proposals} and problems}
+      \field{volume}{40}
+      \field{year}{1990}
+      \field{pages}{19\bibrangedash 84}
+      \range{pages}{66}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/44306682
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/44306682
+      \endverb
+    \endentry
+    \entry{Chomsky1981}{book}{}
+      \name{author}{1}{}{%
+        {{hash=28167c0b3800bc5cfb686676277005b0}{%
+           family={Chomsky},
+           familyi={C\bibinitperiod},
+           given={Noam},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht, Cinnaminson, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Foris Publications}%
+      }
+      \strng{namehash}{28167c0b3800bc5cfb686676277005b0}
+      \strng{fullhash}{28167c0b3800bc5cfb686676277005b0}
+      \strng{bibnamehash}{28167c0b3800bc5cfb686676277005b0}
+      \strng{authorbibnamehash}{28167c0b3800bc5cfb686676277005b0}
+      \strng{authornamehash}{28167c0b3800bc5cfb686676277005b0}
+      \strng{authorfullhash}{28167c0b3800bc5cfb686676277005b0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lectures on government and binding}
+      \field{year}{1981}
+    \endentry
+    \entry{McCawley1968}{article}{}
+      \name{author}{1}{}{%
+        {{hash=465a17b5c11de5caf2ee940bf395328f}{%
+           family={McCawley},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{465a17b5c11de5caf2ee940bf395328f}
+      \strng{fullhash}{465a17b5c11de5caf2ee940bf395328f}
+      \strng{bibnamehash}{465a17b5c11de5caf2ee940bf395328f}
+      \strng{authorbibnamehash}{465a17b5c11de5caf2ee940bf395328f}
+      \strng{authornamehash}{465a17b5c11de5caf2ee940bf395328f}
+      \strng{authorfullhash}{465a17b5c11de5caf2ee940bf395328f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Foundations of Language}
+      \field{number}{3}
+      \field{title}{Concerning the base component of a transformational grammar}
+      \field{volume}{4}
+      \field{year}{1968}
+      \field{pages}{243\bibrangedash 269}
+      \range{pages}{27}
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/25000330
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/25000330
+      \endverb
+    \endentry
+    \entry{Pitsch2014}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=a2d7f13c1e93a929d677f66955db5133}{%
+           family={Pitsch},
+           familyi={P\bibinitperiod},
+           given={Hagen},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Georg-August-Universität Göttingen}%
+      }
+      \list{location}{1}{%
+        {Göttingen}%
+      }
+      \strng{namehash}{a2d7f13c1e93a929d677f66955db5133}
+      \strng{fullhash}{a2d7f13c1e93a929d677f66955db5133}
+      \strng{bibnamehash}{a2d7f13c1e93a929d677f66955db5133}
+      \strng{authorbibnamehash}{a2d7f13c1e93a929d677f66955db5133}
+      \strng{authornamehash}{a2d7f13c1e93a929d677f66955db5133}
+      \strng{authorfullhash}{a2d7f13c1e93a929d677f66955db5133}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Die {Grammatik} prädikativer {Ausdrücke} im {Polnischen} und {Russischen}}
+      \field{type}{phdthesis}
+      \field{year}{2014}
+    \endentry
+    \entry{Steinitz1969}{book}{}
+      \name{author}{1}{}{%
+        {{hash=42fafc67fb3b08a53ade1e9fcbb4dc0c}{%
+           family={Steinitz},
+           familyi={S\bibinitperiod},
+           given={Renate},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Akademie-Verlag}%
+      }
+      \strng{namehash}{42fafc67fb3b08a53ade1e9fcbb4dc0c}
+      \strng{fullhash}{42fafc67fb3b08a53ade1e9fcbb4dc0c}
+      \strng{bibnamehash}{42fafc67fb3b08a53ade1e9fcbb4dc0c}
+      \strng{authorbibnamehash}{42fafc67fb3b08a53ade1e9fcbb4dc0c}
+      \strng{authornamehash}{42fafc67fb3b08a53ade1e9fcbb4dc0c}
+      \strng{authorfullhash}{42fafc67fb3b08a53ade1e9fcbb4dc0c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Unter Mitarbeit von Ewald Lang}
+      \field{number}{10}
+      \field{series}{Studia grammatica}
+      \field{title}{Adverbial-{S}yntax}
+      \field{year}{1969}
+    \endentry
+    \entry{Stechow2012}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=853f91cce9892762652b7aca892dc2fb}{%
+           family={Stechow},
+           familyi={S\bibinitperiod},
+           given={Arnim},
+           giveni={A\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=e0140b72a45936e74754222f35c9f16a}{%
+           family={Maienborn},
+           familyi={M\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=3d3d5615bd99e5044f2105e654d7013c}{%
+           family={Heusinger},
+           familyi={H\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=d8c3d0ac0fc1174248a2b48c4cbe11cc}{%
+           family={Portner},
+           familyi={P\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton De Gruyter}%
+      }
+      \strng{namehash}{853f91cce9892762652b7aca892dc2fb}
+      \strng{fullhash}{853f91cce9892762652b7aca892dc2fb}
+      \strng{bibnamehash}{853f91cce9892762652b7aca892dc2fb}
+      \strng{authorbibnamehash}{853f91cce9892762652b7aca892dc2fb}
+      \strng{authornamehash}{853f91cce9892762652b7aca892dc2fb}
+      \strng{authorfullhash}{853f91cce9892762652b7aca892dc2fb}
+      \strng{editorbibnamehash}{b1701f6050b0c9187e4eb17279ec611f}
+      \strng{editornamehash}{7ebf3e1d86ebd090d4de745dd0de8ad1}
+      \strng{editorfullhash}{b1701f6050b0c9187e4eb17279ec611f}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Semantics: {An} international handbook of natural language meaning}
+      \field{number}{33.3}
+      \field{series}{Handbücher zur Sprach- und Kommunikationswissenschaft / Handbooks of Linguistics and Communication Science}
+      \field{title}{Syntax and semantics: {An} overview}
+      \field{year}{2012}
+      \field{pages}{2173\bibrangedash 2223}
+      \range{pages}{51}
+      \verb{doi}
+      \verb 10.1515/9783110253382.2173
+      \endverb
+    \endentry
+    \entry{Wunderlich1997}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=9d18b342529a553be499c9878bbd884e}{%
+           family={Wunderlich},
+           familyi={W\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=8b65ef05e393acae59d25dfe32bda971}{%
+           family={Wilder},
+           familyi={W\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=bbdea11063558fd0a50afdd09a895985}{%
+           family={Gärtner},
+           familyi={G\bibinitperiod},
+           given={Hans-Martin},
+           giveni={H\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=ba980b6b27a3899d5c38b4a3227b6f3a}{%
+           family={Bierwisch},
+           familyi={B\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Akademie Verlag}%
+      }
+      \strng{namehash}{9d18b342529a553be499c9878bbd884e}
+      \strng{fullhash}{9d18b342529a553be499c9878bbd884e}
+      \strng{bibnamehash}{9d18b342529a553be499c9878bbd884e}
+      \strng{authorbibnamehash}{9d18b342529a553be499c9878bbd884e}
+      \strng{authornamehash}{9d18b342529a553be499c9878bbd884e}
+      \strng{authorfullhash}{9d18b342529a553be499c9878bbd884e}
+      \strng{editorbibnamehash}{84b3471e248e72d415c83a09c22508ee}
+      \strng{editornamehash}{3d5787a0ba11fb8d0b4f1252c7edbf54}
+      \strng{editorfullhash}{84b3471e248e72d415c83a09c22508ee}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The role of economy principles in linguistic theory}
+      \field{number}{40}
+      \field{series}{Studia grammatica}
+      \field{title}{A minimalist model of inflectional morphology}
+      \field{year}{1997}
+      \field{pages}{267\bibrangedash 298}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1515/9783050072173-011
+      \endverb
+    \endentry
+    \entry{Zimmermann1992}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=742e5fad62e7e3253696a18b4494abb3}{%
+           family={Zimmermann},
+           familyi={Z\bibinitperiod},
+           given={Ilse},
+           giveni={I\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=742e5fad62e7e3253696a18b4494abb3}{%
+           family={Zimmermann},
+           familyi={Z\bibinitperiod},
+           given={Ilse},
+           giveni={I\bibinitperiod}}}%
+        {{hash=9bc5a7cdb2ed5f436777cb02cb60b764}{%
+           family={Strigin},
+           familyi={S\bibinitperiod},
+           given={Anatoli},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Akademie-Verlag}%
+      }
+      \strng{namehash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{fullhash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{bibnamehash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{authorbibnamehash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{authornamehash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{authorfullhash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{editorbibnamehash}{63984b3c6e12626fe8752a7f70e11bfa}
+      \strng{editornamehash}{63984b3c6e12626fe8752a7f70e11bfa}
+      \strng{editorfullhash}{63984b3c6e12626fe8752a7f70e11bfa}
+      \field{extraname}{1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Fügungspotenzen. {Zum} 60. {Geburtstag} von {Manfred} {Bierwisch}}
+      \field{number}{34}
+      \field{series}{Studia grammatica}
+      \field{title}{Der {Skopus} von {Modifikatoren}}
+      \field{year}{1992}
+      \field{pages}{251\bibrangedash 279}
+      \range{pages}{29}
+    \endentry
+    \entry{Zimmermann2016}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=742e5fad62e7e3253696a18b4494abb3}{%
+           family={Zimmermann},
+           familyi={Z\bibinitperiod},
+           given={Ilse},
+           giveni={I\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=2b21dc56b5979c213171ec17671ff63b}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={Werner},
+           giveni={W\bibinitperiod}}}%
+        {{hash=9cd856721ab86afbb66fae9a15500dba}{%
+           family={Meinunger},
+           familyi={M\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fc83f4ee09f9bfef937dc734f59621ce}{%
+           family={Schwabe},
+           familyi={S\bibinitperiod},
+           given={Kerstin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {John Ben\-ja\-mins}%
+      }
+      \strng{namehash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{fullhash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{bibnamehash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{authorbibnamehash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{authornamehash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{authorfullhash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{editorbibnamehash}{0b50182178755d9ed75d2004cf6bf813}
+      \strng{editornamehash}{1ca2756259201f17a37a877238f92b06}
+      \strng{editorfullhash}{0b50182178755d9ed75d2004cf6bf813}
+      \field{extraname}{2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Inner-sentential propositional proforms: {Syntactic} properties and interpretative effects}
+      \field{number}{232}
+      \field{series}{Linguistik Aktuell/Linguistics Today}
+      \field{title}{Phonological, morphosyntactic and semantic properties of \textit{es}}
+      \field{year}{2016}
+      \field{pages}{147\bibrangedash 169}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1075/la.232.06zim
+      \endverb
+    \endentry
+    \entry{Zimmermann2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=742e5fad62e7e3253696a18b4494abb3}{%
+           family={Zimmermann},
+           familyi={Z\bibinitperiod},
+           given={Ilse},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{fullhash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{bibnamehash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{authorbibnamehash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{authornamehash}{742e5fad62e7e3253696a18b4494abb3}
+      \strng{authorfullhash}{742e5fad62e7e3253696a18b4494abb3}
+      \field{extraname}{3}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistische Berichte}
+      \field{title}{Die {Negation} in temporalen {Nebensätzen}}
+      \field{volume}{254}
+      \field{year}{2018}
+      \field{pages}{229\bibrangedash 244}
+      \range{pages}{16}
+    \endentry
+  \enddatalist
+  \missing{Ajdukiewicz1935}
+  \missing{Alexiadou1997}
+  \missing{AnagnostopoulouSchäfer2006}
+  \missing{Bartsch1972}
+  \missing{BarwisePerry1983}
+  \missing{Batistić1978}
+  \missing{Bierwisch2002}
+  \missing{Bierwisch2005}
+  \missing{Bierwisch2011}
+  \missing{Bilandžija2014}
+  \missing{Biskup2011}
+  \missing{Bondaruk2021}
+  \missing{Breu2011}
+  \missing{Comrie1976}
+  \missing{Davidson1967a}
+  \missing{Davidson1967b}
+  \missing{Davidson1980}
+  \missing{Dixon2000}
+  \missing{Dowty1979}
+  \missing{FJL2010}
+  \missing{FJL2014}
+  \missing{Fabricius-Hansen1991}
+  \missing{FanselowStaudacher1991}
+  \missing{Farber1976}
+  \missing{Fillmore1968}
+  \missing{Fodor1970}
+  \missing{Frey2003}
+  \missing{FreyPittner1999}
+  \missing{Garboden2009}
+  \missing{Geist2006}
+  \missing{Grimshaw1990}
+  \missing{HalleMarantz1993}
+  \missing{Heidolph1992}
+  \missing{Higginbotham1985}
+  \missing{Hovav1994}
+  \missing{Hovav1995}
+  \missing{HovavLevin2005}
+  \missing{In1989}
+  \missing{JägerBlutner1999}
+  \missing{Junghanns2002}
+  \missing{Junghanns2006}
+  \missing{JunghannsLenertová2014}
+  \missing{Karlík2002}
+  \missing{KemmerVerhagen1994}
+  \missing{Koot2012}
+  \missing{Kulikov2001}
+  \missing{LangMaienborn2011}
+  \missing{Lenertová2014}
+  \missing{Leskien1922}
+  \missing{Lewis1973}
+  \missing{Maienborn1996}
+  \missing{McCawley1971}
+  \missing{McCawley1976}
+  \missing{Padučeva2001}
+  \missing{Padučeva2003}
+  \missing{Putnam1975}
+  \missing{Ramchand2008}
+  \missing{Reinhart2016}
+  \missing{Ross1972}
+  \missing{Saksena1982}
+  \missing{Schäfer2008}
+  \missing{Shibatani1976}
+  \missing{SongDriscoll2002}
+  \missing{Stechow1996}
+  \missing{Steube1988}
+  \missing{Szucsich2002}
+  \missing{Talmy1976}
+  \missing{Tixonov1985}
+  \missing{Wali1981}
+  \missing{Werkmann2003}
+  \missing{Wierzbicka1975}
+  \missing{Zimmermann2003}
+\endrefsection
+\endinput
+
